@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS2017Ent.ASPNETWebApp.MvcWebApi", "VS2017Ent.ASPNETWebApp.MvcWebApi\VS2017Ent.ASPNETWebApp.MvcWebApi.csproj", "{52C14EBA-9B59-4BD0-827B-786FA150398E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS2017Ent.ASPNETWebApp.MvcWebApi.Tests", "VS2017Ent.ASPNETWebApp.MvcWebApi.Tests\VS2017Ent.ASPNETWebApp.MvcWebApi.Tests.csproj", "{782B6B1F-F612-4C9F-9E21-91B3A8CFF4B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8621794E-609F-479F-AE27-2608664D3E42}"
+	ProjectSection(SolutionItems) = preProject
+		Git ReadMe.txt = Git ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52C14EBA-9B59-4BD0-827B-786FA150398E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C14EBA-9B59-4BD0-827B-786FA150398E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C14EBA-9B59-4BD0-827B-786FA150398E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C14EBA-9B59-4BD0-827B-786FA150398E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782B6B1F-F612-4C9F-9E21-91B3A8CFF4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782B6B1F-F612-4C9F-9E21-91B3A8CFF4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782B6B1F-F612-4C9F-9E21-91B3A8CFF4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782B6B1F-F612-4C9F-9E21-91B3A8CFF4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42476004-1296-4875-AEAB-3C0B5C223FB9}
+	EndGlobalSection
+EndGlobal
